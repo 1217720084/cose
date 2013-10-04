@@ -1,8 +1,8 @@
-COSE
-====
+COSE HTC Test Systems
+=====================
 
 This is the source code for the official COSE hydro-thermal power systems 
-coordination test systems. All tests are based on public data made available
+coordination (HTC) test systems. All tests are based on public data made available
 by several sources, including, but not limited to:
 
 * IEEE
